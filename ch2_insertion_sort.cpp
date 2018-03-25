@@ -1,3 +1,6 @@
+/*
+Pseudo code conversion from chapter 2
+*/
 #include <iostream>
 void insertion_sort(int a[], int length)
 {
